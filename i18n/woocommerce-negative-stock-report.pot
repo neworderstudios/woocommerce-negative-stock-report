@@ -1,0 +1,39 @@
+# Copyright (C) 2015 WooCommerce Negative Stock Report
+# This file is distributed under the same license as the WooCommerce Negative Stock Report package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Negative Stock Report 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-"
+"negative-stock-report\n"
+"POT-Creation-Date: 2015-03-10 14:03:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: woocommerce-negative-stock-report.php:15
+msgid ""
+"WooCommerce stock report class could not be loaded. Is WooCommerce installed?"
+msgstr ""
+
+#: woocommerce-negative-stock-report.php:43
+msgid "Negative Stock"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Negative Stock Report"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to add basic negative stock reporting."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "New Order Studios"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://neworderstudios.com/"
+msgstr ""
